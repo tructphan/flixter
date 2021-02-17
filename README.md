@@ -17,7 +17,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 ### App Walkthrough GIF
 
 - Flixter on iPhone 11. 
-<img src="https://media.giphy.com/media/EvFfK6LYWuPgmgeGeE/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/EvFfK6LYWuPgmgeGeE/giphy.gif" width=300><br>
 
 ### Notes
 - Could not send request for similar movies API (had to manually copy and paste from the original URL)
